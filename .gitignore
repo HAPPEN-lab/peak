@@ -1,0 +1,4 @@
+# Ignore build files
+**/.pio
+**/.venv
+**/__pycache__
